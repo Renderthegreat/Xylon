@@ -1,0 +1,17 @@
+{
+  "name": "xylon",
+  "author": "renderthegreat",
+  "version": "0.0.0",
+  "description": "A JavaScript web framework",
+  "main": "index.js",
+  "bin": {
+    "xylon": "./xylon/bin/xylon"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
