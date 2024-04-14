@@ -1,9 +1,9 @@
 export default {
-	"version": "0.0.0",
-	"channel": "indev",
-	"public": false,
+	"version": "0.0.1",
+	"channel": "beta",
+	"public": true
 	"xion": {
-		"version": "0.0.0",
+		"version": "0.0.1",
 		"phase": "tiger"
 	}
 }
