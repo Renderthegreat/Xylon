@@ -1,7 +1,7 @@
 {
   "name": "xylon",
   "author": "renderthegreat",
-  "version": "0.0.0",
+  "version": "0.0.3",
   "description": "A JavaScript web framework",
   "main": "index.js",
   "bin": {
